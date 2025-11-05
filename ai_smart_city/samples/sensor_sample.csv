@@ -1,0 +1,2 @@
+sensor_id,timestamp,metric,value,metadata
+sensor_1,2025-10-30T09:00:00,traffic_count,12,{}
